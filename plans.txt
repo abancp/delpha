@@ -1,0 +1,100 @@
+Write a program to calculate the factorial of a given number.
+Implement a function to check if a given string is a palindrome.
+Write a function to find the largest element in an array.
+Implement a program to reverse a given string.
+Write a program to find the sum of all elements in an array.
+Implement a function to check if a given number is prime.
+Write a program to swap two numbers without using a temporary variable.
+Implement a function to calculate the nth Fibonacci number.
+Write a program to sort an array in ascending order.
+Implement a function to check if a given year is a leap year.
+Write a program to convert a decimal number to binary.
+Implement a function to find the length of a linked list.
+Write a program to find the second largest element in an array.
+Implement a function to count the number of vowels in a string.
+Write a program to find the GCD (Greatest Common Divisor) of two numbers.
+Implement a function to reverse a linked list.
+Write a program to check if a given string is an anagram.
+Implement a function to find the square root of a given number.
+Write a program to find the median of an array.
+Implement a function to merge two sorted arrays.
+Write a program to generate all prime numbers up to a given number.
+Implement a function to remove duplicates from an array.
+Write a program to convert a binary number to decimal.
+Implement a function to find the maximum sum of a subarray in an array.
+Write a program to check if a given number is a palindrome.
+Implement a function to reverse a stack.
+Write a program to find the LCM (Least Common Multiple) of two numbers.
+Implement a function to check if a given linked list contains a cycle.
+Write a program to find the third largest element in an array.
+Implement a function to count the number of occurrences of a specific element in an array.
+Write a program to check if a given string is a valid email address.
+Implement a function to find the factorial of a given number using recursion.
+Write a program to calculate the power of a given number.
+Implement a function to remove a specific element from a linked list.
+Write a program to find the sum of all prime numbers up to a given number.
+Implement a function to check if a given number is a perfect square.
+Write a program to reverse the words in a given string.
+Implement a function to check if a given linked list is empty.
+Write a program to find the sum of digits of a given number.
+Implement a function to find the middle element of a linked list.
+Write a program to check if a given string is a valid palindrome ignoring spaces and punctuation.
+Implement a function to find the factorial of a given number using iteration.
+Write a program to find the sum of all even numbers in an array.
+Implement a function to find the intersection of two linked lists.
+Write a program to count the number of words in a given string.
+Implement a function to check if a given array is sorted in non-decreasing order.
+Write a program to find the sum of all odd numbers in an array.
+Implement a function to find the middle element of a stack without using extra space.
+Write a program to check if a given number is a perfect number.
+Implement a function to reverse the order of words in a sentence.
+Write a program to find the sum of digits of a given number using recursion.
+Implement a function to check if a given binary tree is a binary search tree.
+Write a program to check if a given string is a valid palindrome.
+Implement a function to find the nearest prime number greater than a given number.
+Write a program to find the sum of all numbers in a linked list.
+Implement a function to check if a given year is a leap year using the Gregorian calendar rules.
+Write a program to find the product of all elements in an array.
+Implement a function to merge two sorted linked lists.
+Write a program to find the sum of digits of a given number using iteration.
+Implement a function to check if a given string contains only unique characters.
+Write a program to check if a given number is an Armstrong number.
+Implement a function to remove duplicates from a linked list.
+Write a program to check if a given string is a substring of another string.
+Implement a function to reverse the order of characters in a string.
+Write a program to find the sum of all prime numbers in an array.
+Implement a function to find the kth element from the end of a linked list.
+Write a program to find the maximum product of two numbers in an array.
+Implement a function to check if a given binary tree is balanced.
+Write a program to remove all duplicates from an array.
+Implement a function to reverse the order of elements in a stack.
+Write a program to find the sum of all numbers in a binary tree.
+Implement a function to check if a given string is a valid URL.
+Write a program to check if a given number is a strong number.
+Implement a function to compare two linked lists for equality.
+Write a program to find the missing number in an array of consecutive numbers.
+Implement a function to find the kth smallest element in an array.
+Write a program to check if a given string is a valid IPv4 address.
+Implement a function to find the maximum difference between two elements in an array.
+Write a program to find the sum of all numbers in a binary search tree.
+Implement a function to check if a given string contains balanced parentheses.
+Write a program to check if a given number is a perfect cube.
+Implement a function to find the kth largest element in an array.
+Write a program to check if a given string is a valid IPv6 address.
+Implement a function to find the element that appears more than n/2 times in an array.
+Write a program to find the intersection of two arrays.
+Implement a function to check if a given binary tree is a complete binary tree.
+Write a program to find the longest common prefix in an array of strings.
+Implement a function to find the sum of all even numbers in a binary tree.
+Write a program to check if a given number is a Harshad number.
+Implement a function to check if a given linked list is a palindrome.
+Write a program to find the union of two arrays.
+Implement a function to check if a given binary tree is a binary search tree using inorder traversal.
+Write a program to find the longest palindromic substring in a given string.
+Implement a function to find the sum of all leaf nodes in a binary tree.
+Write a program to check if a given number is a narcissistic number.
+Implement a function to check if a given linked list is circular.
+Write a program to find the longest increasing subarray in an array.
+Implement a function to find the sum of all nodes at a given level in a binary tree.
+Write a program to check if a given number is a disarium number.
+Implement a function to check if a given linked list is a doubly linked list.
