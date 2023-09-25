@@ -1,3 +1,4 @@
+Implement a function to convert numbers to short numbers (1000->1k)
 Write a program to calculate the factorial of a given number.
 Implement a function to check if a given string is a palindrome.
 Write a function to find the largest element in an array.
