@@ -1,6 +1,6 @@
 {
   "name": "delpha",
-  "version": "0.0.1.1",
+  "version": "0.0.11",
   "description": "Math Based Packege",
   "main": "delpha.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/abancp/delpha"
-},
+  },
   "license": "MIT"
 }
