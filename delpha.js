@@ -1,5 +1,1 @@
-function sum(x,y){
-    console.log(x+y)
-    return x+y
-}
-export default sum
+const Matrix = require('./src/Classes/Matrix.js')
