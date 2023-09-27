@@ -2,7 +2,7 @@
 ### We are try to include this concepts in our 1.0.0 releas
 #### Contribute Now - https://github.com/abancp/delpha
 
-##### For Any Maths related projects like Artifia - Intelligent / Machin Learning 
+##### For Any Maths related projects like Artifcial Intelligence - Machine Learning - etc...
 
 * Utility Functions 
     * eg :-
